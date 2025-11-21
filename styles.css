@@ -1,0 +1,82 @@
+.Block
+{
+    text-align: center;
+    outline-width: 60px;
+    outline:auto;
+    outline-color: #4F0F36;
+    outline-style: ridge;
+ background-image: linear-gradient(    230deg, hsl(240deg 100% 20%) 0%, hsl(255deg 100% 19%) 4%, hsl(263deg 100% 18%) 8%,hsl(270deg 100% 17%) 13%,  hsl(276deg 100% 16%) 17%,  hsl(281deg 100% 15%) 21%,  hsl(286deg 99% 14%) 25%,  hsl(291deg 92% 14%) 29%,  hsl(295deg 83% 14%) 33%,  hsl(299deg 72% 14%) 37%,  hsl(304deg 63% 15%) 42%,  hsl(308deg 55% 15%) 46%,  hsl(312deg 48% 16%) 50%,  hsl(328deg 51% 17%) 54%,  hsl(340deg 49% 18%) 58%, hsl(351deg 44% 19%) 63%, hsl(3deg 41% 20%) 67%, hsl(14deg 45% 19%) 71%,hsl(22deg 45% 18%) 75%,hsl(30deg 43% 18%) 79%,hsl(39deg 38% 17%) 83%,hsl(49deg 30% 18%) 87%, hsl(64deg 22% 18%) 92%,hsl(83deg 17% 20%) 96%, hsl(107deg 13% 22%) 100%)
+}
+.Blocknocenter
+{
+    text-align: right;
+    outline-width: 60px;
+    outline:auto;
+    outline-color: #4F0F36;
+    outline-style: ridge;
+    border-radius: 6px;
+ background-image: linear-gradient(    230deg, hsl(240deg 100% 20%) 0%, hsl(255deg 100% 19%) 4%, hsl(263deg 100% 18%) 8%,hsl(270deg 100% 17%) 13%,  hsl(276deg 100% 16%) 17%,  hsl(281deg 100% 15%) 21%,  hsl(286deg 99% 14%) 25%,  hsl(291deg 92% 14%) 29%,  hsl(295deg 83% 14%) 33%,  hsl(299deg 72% 14%) 37%,  hsl(304deg 63% 15%) 42%,  hsl(308deg 55% 15%) 46%,  hsl(312deg 48% 16%) 50%,  hsl(328deg 51% 17%) 54%,  hsl(340deg 49% 18%) 58%, hsl(351deg 44% 19%) 63%, hsl(3deg 41% 20%) 67%, hsl(14deg 45% 19%) 71%,hsl(22deg 45% 18%) 75%,hsl(30deg 43% 18%) 79%,hsl(39deg 38% 17%) 83%,hsl(49deg 30% 18%) 87%, hsl(64deg 22% 18%) 92%,hsl(83deg 17% 20%) 96%, hsl(107deg 13% 22%) 100%)
+}
+.Comforta
+{
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+.gradient1
+{
+  background-image: linear-gradient(
+    230deg,
+    hsl(240deg 100% 20%) 0%,
+    hsl(263deg 100% 18%) 17%,
+    hsl(276deg 100% 16%) 27%,
+    hsl(286deg 99% 14%) 35%,
+    hsl(295deg 83% 14%) 42%,
+    hsl(304deg 63% 15%) 49%,
+    hsl(312deg 48% 16%) 55%,
+    hsl(307deg 54% 17%) 61%,
+    hsl(302deg 60% 18%) 67%,
+    hsl(296deg 65% 19%) 73%,
+    hsl(290deg 70% 21%) 80%,
+    hsl(285deg 73% 23%) 89%,
+    hsl(279deg 73% 26%) 100%
+  );
+}
+.whitetext
+{
+    color: whitesmoke;
+}
+.myButton {
+	box-shadow: 0px 0px 28px 4px #f5f5f5;
+	background:linear-gradient(to bottom, #701f70 5%, #2f0033 100%);
+	background-color:#701f70;
+	border-radius:28px;
+	border:1px solid #a305a3;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:31px 360px;
+	text-decoration:none;
+	text-shadow:0px 0px 50px #2f6627;
+  
+    
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #2f0033 5%, #701f70 100%);
+	background-color:#2f0033;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.fright
+{
+    float: right;
+    
+}
+.Arial
+{
+  font-family:Arial;
+}
